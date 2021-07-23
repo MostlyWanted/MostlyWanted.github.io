@@ -25,4 +25,6 @@ A simple Poker game! coded with HTML/CSS & JAVASCRIPT
 - Add styling using Flex and Grid
 - Multiplayer (up to 7 players)
 - Sound (maybe?)
-  [click here to play!](https://mostlywanted.github.io/)
+- mobile friendly
+
+[click here to play!](https://mostlywanted.github.io/)
